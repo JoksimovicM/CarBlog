@@ -1,0 +1,38 @@
+#title {
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Eras ITC';
+    border-style: hidden hidden solid;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Eras ITC';
+    color: lightslategrey;
+}
+
+.list {
+    display: flex;
+    height: auto;
+    
+    gap: 40%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#first {
+    border: 5px solid red;
+    padding: 50px;
+}
+
+#second {
+    border: 5px dotted blue;
+    padding: 50px;
+}
+
+.article {
+    width: 400px;
+    height: auto;
+}

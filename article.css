@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/r34-nissan-skyline-gtr-v-spec-e1659445490154.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.content {
+  background-color: white;
+  display: flex;
+  width: 74%;
+  margin-top: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 3%;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  overflow-y: scroll;
+  font-size: 3vw;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content h2 {
+  font-size: 5vw;
+}
